@@ -20,7 +20,7 @@ instances = ec2.create_instances(
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'Python-EC2'
+                    'Value': 'linux'
                 }
             ]
         }
